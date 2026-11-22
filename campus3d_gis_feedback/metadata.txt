@@ -1,0 +1,14 @@
+[general]
+name=Campus3D GIS Feedback
+description=Phase 4 A/B common-scale, delta map and same-position point/route/area comparison; Phase 3 point, route and area thermal evaluation of existing Campus3D data, with Phase 2 synchronized colorbar, map PNG export, Coverage Audit and provisional regional HIP.
+version=0.7.2
+qgisMinimumVersion=3.40
+qgisMaximumVersion=3.99
+author=Campus3D Project
+email=
+about=Experimental research and classroom tool. All regional HIP and coverage assessments remain provisional; source gaps are not filled.
+category=Analysis
+experimental=True
+deprecated=False
+hasProcessingProvider=False
+homepage=https://github.com/andango2002/Campus3D-EnvSim
